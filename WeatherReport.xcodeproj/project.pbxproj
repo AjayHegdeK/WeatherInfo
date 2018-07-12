@@ -260,6 +260,7 @@
 				TargetAttributes = {
 					35979EE31F279DB100760A92 = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = 8GF2M6DQ5H;
 						ProvisioningStyle = Automatic;
 					};
 					35979EFF1F279DB100760A92 = {
@@ -484,6 +485,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 8GF2M6DQ5H;
 				INFOPLIST_FILE = WeatherReport/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com..WeatherReport;
@@ -495,6 +497,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 8GF2M6DQ5H;
 				INFOPLIST_FILE = WeatherReport/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com..WeatherReport;
