@@ -4,10 +4,28 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>WeatherReport.xcscheme</key>
+		<key>WeatherReport.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>35979EE31F279DB100760A92</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>35979EFF1F279DB100760A92</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>35979F0A1F279DB100760A92</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
