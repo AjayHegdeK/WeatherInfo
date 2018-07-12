@@ -1,5 +1,7 @@
 language: objective-c
 osx_image: xcode9
+xcode_project: WeatherReport.xcodeproj
+xcode_scheme: WeatherReport
 notifications:
 email: false
 branches:
