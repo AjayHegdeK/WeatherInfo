@@ -3,7 +3,9 @@ osx_image: xcode9.4
 xcode_project: WeatherReport.xcodeproj
 xcode_scheme: WeatherReport
 xcode_sdk: iphonesimulator11.4
-before_install: gem install bundler, brew update
+before_install: 
+-gem install bundler
+-brew update
 script: xctool -xcodeproj <WeatherReport.xcodeproj> -scheme <WeatherReport> -configuration Release -derivedDataPath ./build -archivePath ./build/Products/WeatherReport.xcarchive
 notifications:
 email: false
